@@ -1,4 +1,4 @@
-﻿namespace CodingTheory.Compression.Encoding;
+﻿namespace CodingTheory.Encoding;
 
 public readonly struct EncodingInfo
 {

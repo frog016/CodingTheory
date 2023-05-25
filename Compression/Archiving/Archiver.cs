@@ -1,5 +1,5 @@
-﻿using CodingTheory.Compression.Encoding;
-using CodingTheory.Compression.Parsing;
+﻿using CodingTheory.Compression.Parsing;
+using CodingTheory.Encoding;
 
 namespace CodingTheory.Compression.Archiving;
 

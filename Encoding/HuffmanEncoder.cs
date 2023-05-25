@@ -2,7 +2,7 @@
 using CodingTheory.Compression.Data;
 using CodingTheory.Extensions;
 
-namespace CodingTheory.Compression.Encoding;
+namespace CodingTheory.Encoding;
 
 public class HuffmanEncoder : IDataEncoder
 {

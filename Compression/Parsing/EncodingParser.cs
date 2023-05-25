@@ -1,5 +1,5 @@
 ﻿using System.Text;
-using EncodingInfo = CodingTheory.Compression.Encoding.EncodingInfo;
+using EncodingInfo = CodingTheory.Encoding.EncodingInfo;
 
 namespace CodingTheory.Compression.Parsing;
 

@@ -1,7 +1,7 @@
 ﻿using CodingTheory.Compression;
 using CodingTheory.Compression.Archiving;
-using CodingTheory.Compression.Encoding;
 using CodingTheory.Compression.Parsing;
+using CodingTheory.Encoding;
 
 namespace CodingTheory;
 
